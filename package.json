@@ -9,7 +9,7 @@
 	"author": {
 	    "name": "ohtorii"
   	},
-  	"categories": ["code","text","hidemaru","秀丸"],
+  	"categories": ["Other"],
   	"icon": "images/icon.png",
 	"description": "A Visual Studio Code extension that adds a right-click context menu command. Allows you to open the file in Hidemaru editor.",
 	"license": "MIT License",
