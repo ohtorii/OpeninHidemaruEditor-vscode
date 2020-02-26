@@ -1,9 +1,15 @@
-# Open in Hidemaru Editor
+﻿# Open in Hidemaru Editor
 
 ![Maintenance](https://img.shields.io/maintenance/yes/2020.svg)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 # Description
+
+## jp
+
+Visual Studio Codeで編集中のテキストファイルを秀丸エディタで開くよ。
+
+## en
 
 A Visual Studio Code extension that adds a right-click context menu command. Allows you to open the file in [Hidemaru editor](https://hide.maruo.co.jp/index.html).
 
@@ -37,7 +43,7 @@ The extension will automatically find Hidemaru.exe when it's located at in the d
 
 - <https://ohtorii.hatenadiary.jp>
 - <https://twitter.com/ohtorii>
-- <https://github.com/ohtorii/OpeninHidemaruEditor>
+- <https://github.com/ohtorii/OpeninHidemaruEditor-vscode>
 
 # Donate
 
@@ -45,4 +51,4 @@ If you like it, I'd be happy if you donated the game from Steam.
 
 - https://store.steampowered.com/wishlist/id/ohtorii
 
-It will encourage development😊
+It will encourage development・
